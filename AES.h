@@ -1,12 +1,5 @@
 #pragma once
 
-/*
-	Muhammad Usman Shahid
-			20I-1797
-		Assignment 03
-			CY-T
-*/
-
 // Class of the AES containg all the things and attributes needed
 class AES
 {

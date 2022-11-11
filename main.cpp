@@ -1,10 +1,3 @@
-/*
-	Muhammad Usman Shahid
-			20I-1797
-		Assignment 03
-			CY-T
-*/
-
 #include <iostream>
 #include <string.h>
 #include <cstdlib>
